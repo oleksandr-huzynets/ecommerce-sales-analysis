@@ -33,4 +33,4 @@ This project demonstrates the ability to:
 
 ## Dashboard Preview
 
-![Dashboard](Users\sashk\Desktop\dashboard_overview.png)
+![Dashboard](dashboard_overview.png)

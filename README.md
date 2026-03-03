@@ -29,3 +29,8 @@ This project demonstrates the ability to:
 - Extract insights from structured data
 - Identify trends and anomalies
 - Translate data findings into business recommendations
+
+
+## Dashboard Preview
+
+![Dashboard](dashboard_overview.png)
